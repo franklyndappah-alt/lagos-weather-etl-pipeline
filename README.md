@@ -4,7 +4,7 @@ An automated, end-to-end batch ETL pipeline that downloads daily weather data fo
 
 **Built to demonstrate:** staging layers, data quality validation, idempotent loads (upserts), file hashing, run logging, scheduling, and unit testing.
 
-> Add a screenshot of `weather_daily` in DB Browser for SQLite here, e.g. `![weather_daily](docs/weather_daily.png)`
+![weather_daily table in DB Browser](docs/weather_daily.png)
 
 ---
 
@@ -307,4 +307,4 @@ Weather data comes from the [Open-Meteo Historical Weather API](https://open-met
 
 ## Author
 
-**Franklyn Dappah**: [GitHub](https://github.com/franklyndappah-alt) | [LinkedIn](https://www.linkedin.com/in/<your-profile>)
+**Franklyn Dappah**: [GitHub](https://github.com/franklyndappah-alt) 
