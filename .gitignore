@@ -1,0 +1,15 @@
+# Database and generated data
+*.db
+data/
+logs/
+
+# Python and tool caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Personal backups and editor settings
+Backup_raw data/
+.vscode/
